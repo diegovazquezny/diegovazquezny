@@ -51,7 +51,7 @@ export const projectsData = [
     img: 'pizza.png',
     title: `Diego's Pizza`,
     info: `
-      Diego's Pizza is a mock eCommerce site for a pizzaeria.
+      Diego's Pizza is a mock eCommerce site for a pizzeria.
       The front end is written in NextJS, React, Material-UI, and 
       Redux for state management. The back end uses NextJS serverless API
       and PostgreSQL.
