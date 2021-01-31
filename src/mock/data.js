@@ -48,6 +48,20 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'pizza.png',
+    title: `Diego's Pizza`,
+    info: `
+      Diego's Pizza is a mock eCommerce site for a pizzaeria.
+      The front end is written in NextJS, React, Material-UI, and 
+      Redux for state management. The back end uses NextJS serverless API
+      and PostgreSQL.
+    `,
+    info2: '',
+    url: 'https://diegos-pizza.vercel.app/',
+    repo: 'https://github.com/diegovazquezny/diegos-pizza', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'tech-notes.png',
     title: 'Tech Notes',
     info: `
