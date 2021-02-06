@@ -8,3 +8,5 @@
 [Tech Notes](https://tech-notes-app.herokuapp.com/) stores your notes in a fast and easy to use interface. 
 
 [GStor](https://guarded-hollows-10232.herokuapp.com) displays detailed video game data pulled from a JSON file.
+
+Use [Dev Flash Cards](https://dev-flash-cards.vercel.app/) to study for your next technical interview.
